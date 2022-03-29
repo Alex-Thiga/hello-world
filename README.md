@@ -1,2 +1,6 @@
 # hello-world
-just an introduction to GitHub
+an introduction to GitHub
+
+##get to know me
+-name:Alex Thiga
+-always eager to learn and practise code!!
